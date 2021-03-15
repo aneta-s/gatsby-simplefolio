@@ -34,7 +34,7 @@ const Header = () => {
         <Fade left={isDesktop} bottom={isMobile} duration={1000} delay={1000} distance="30px">
           <p className="hero-cta">
             <a className="cta-btn cta-btn--hero" href="#about">
-              {cta || 'Contact'}
+              {cta || 'My projects'}
             </a>
           </p>
         </Fade>

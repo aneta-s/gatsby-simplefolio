@@ -31,9 +31,11 @@ export const projectsData = [
     id: uuidv1(),
     img: 'habitual.png',
     title: `Web and mobile e-commerce website redesign for Habitual.`,
-    info: `A recent survey found that Habitual’s UX ranks highest among > 45 years old. The problem I’m tasked with solving on this project is to redesign their website and make it more appealing for younger users > 25 years old.`,
+    info: `An online retailer that allows individuals
+    and businesses to sell and display
+    products for sale online`,
     info2: `Skills performed: Project Management, Modern Tools, Goal Conversion, Graphic Design, UX`,
-    url: '/habitual-usecase.pdf',
+    url: 'https://aneta-habituals-uxprocess.netlify.app/',
     repo: '', // if no repo, the button will not show up
   },
   {
