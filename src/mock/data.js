@@ -35,7 +35,7 @@ export const projectsData = [
     and businesses to sell and display
     products for sale online`,
     info2: `Skills performed: Project Management, Modern Tools, Goal Conversion, Graphic Design, UX`,
-    url: 'https://aneta-habituals-uxprocess.netlify.app/',
+    url: '/habitual-usecase.pdf',
     repo: '', // if no repo, the button will not show up
   },
   {
