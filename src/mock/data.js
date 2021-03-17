@@ -17,7 +17,7 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profile1.jpg',
+  img: 'profile.png',
   paragraphOne: `Professional and enthusiastic Product Designer with knowledge of web and mobile design, front-end and UX/UI. Able to create beautifully designed web and mobile interfaces that serves countless people in many different roles, but which all fit consistently in platforms. 
   Uses different facets and tools of design to create and execute a solution that solves for a user’s experience deficiencies.`,
   paragraphTwo: `I’m a problem solver and enjoy participating in design sprints. In my spare time I write blog posts for the frontend community to help other designers understand a topic.`,
@@ -30,54 +30,39 @@ export const projectsData = [
   {
     id: uuidv1(),
     img: 'habitual.png',
-    title: `Web and mobile e-commerce website redesign for Habitual.`,
+    title: `Habitual e-commerce website redesign.`,
     info: `An online retailer that allows individuals
     and businesses to sell and display
     products for sale online`,
     info2: `Skills performed: Project Management, Modern Tools, Goal Conversion, Graphic Design, UX`,
-    url: '/habitual-usecase.pdf',
+    url: 'https://aneta-habitual-uxprocess.netlify.app',
     repo: '', // if no repo, the button will not show up
   },
   {
     id: uuidv1(),
     img: 'uwv.png',
-    title: `Web and mobile complex homepage redesign for UWV`,
-    info: `Our website got negative reviews because users were frustrated with the digital services on the website visited by almost million visitors daily. Based on the content of the reviews, I hypothesized that users were overwhelmed by the content and the website’s cluttered appearance.`,
+    title: `UWV complex homepage redesign.`,
+    info: `Helping unemployed people financially on
+    conditions ensuring they seek work.`,
     info2: `Skills performed: Platform Development, Modern Tools, Goal Conversion, UX`,
-    url: '/uwv-usecase.pdf',
-    repo: 'https://github.com/aneta-s/homepageUwv',
+    url: 'https://aneta-uwv-uxprocess.netlify.app',
+    repo: '',
   },
   {
     id: uuidv1(),
     img: 'arbeidsmarkt.png',
     title: 'Arbeidsmarkt scrolling infographics.',
-    info: `Our data reports inform people about the current job markets. It is complex data visualized through generic charts and ready-made dashboards, which results in less accessibility for the users on their mobile devices. The company wants to make their reports more appealing to their users. Based on LEAN problem analyses, I have hypothesized that data view should be more user-centered and designed simple enough to be understood by a maximum number of users.`,
+    info: `Translating complex data into something
+    everyone should be able to understand at
+    galance.`,
     info2: `Skills performed: Platform Development, Client & Project Management, Modern Tools, Goal Conversion, Graphic Design, UX.`,
-    url: '/arbeidsmarkt-usecase.pdf',
-    repo: 'https://github.com/aneta-s/arbeidsmarkt', // if no repo, the button will not show up
-  },
-  {
-    id: uuidv1(),
-    img: 'smart.jpg',
-    title: 'Responsive face detection React app from the scratch.',
-    info: `Smart Brain is a face detection software. Equipped with user authentication and a ranking system, a full-stack image recognition app that uses a subset of artificial intelligence (AI) with Machine Learning and Clarifai API.`,
-    info2: `Technologies used: React.js, Node, JSX, RESTful API, VSC, NPM, Git, Express, Postgress, ClarifaiAPI.`,
-    url: 'https://aneta-s.github.io/recognition-app/',
-    repo: 'https://github.com/aneta-s/recognition-app', // if no repo, the button will not show up
-  },
-  {
-    id: uuidv1(),
-    img: 'react.jpg',
-    title: 'React app Robofriends from scratch.',
-    info: `Although lightweight, the Robofriends application is making use of ReactJS library. This application generates a list of users from an API. The features include filtering users, search box, scroll bar, loading time, error boundary message and a customized logo.`,
-    info2: 'Technologies used: React.js, RESTful API, JSON, Git, Visual Studio Code, NPM.',
-    url: 'https://aneta-s.github.io/robofriends/',
-    repo: 'https://github.com/aneta-s/robofriends', // if no repo, the button will not show up
+    url: 'https://aneta-arbeidsmarkt-uxprocess.netlify.app',
+    repo: '', // if no repo, the button will not show up
   },
   {
     id: uuidv1(),
     img: 'ux.jpg',
-    title: `Graphic Design, Client & Project Management and Goal Conversion related cases I made including Data Visualization.`,
+    title: `More work including Graphic design, Goal conversion, Project management and UX / UI.`,
     info: `In my portfolio I show how I, as a designer, trade professionally in real-life situations. The material is always presented against the background of the situation in which that material played a role.`,
     info2: `Tools & Methodologies used: Sketch, Photoshop, Illustrator, Figma, Sketching, GitHub, Git, online resources for A/B testing.`,
     url: `/graphic-design-related-works.pdf`,
