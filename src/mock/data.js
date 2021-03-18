@@ -18,9 +18,8 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.png',
-  paragraphOne: `Professional and enthusiastic Product Designer with knowledge of web and mobile design, front-end and UX/UI. Able to create beautifully designed web and mobile interfaces that serves countless people in many different roles, but which all fit consistently in platforms. 
-  Uses different facets and tools of design to create and execute a solution that solves for a user’s experience deficiencies.`,
-  paragraphTwo: `I’m a problem solver and enjoy participating in design sprints. In my spare time I write blog posts for the frontend community to help other designers understand a topic.`,
+  paragraphOne: `Professional and enthusiastic Product Designer with front-end skills en knowledge of web and mobile design and UX/UI. Able to create beautifully designed web and mobile interfaces that serve countless people in many different roles, but which all fit consistently in platforms. Uses different facets and tools of design to create and execute solutions for a user’s experience optimization.`,
+  paragraphTwo: `I’m a problem solver and enjoy participating in design sprints. In my spare time I write blog posts for the design community to help other product designers understand a topic.`,
   paragraphThree: ``,
   resume: 'https://medium.com/@anetastojanowska', // if no resume, the button will not show up
 };
