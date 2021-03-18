@@ -61,11 +61,11 @@ export const projectsData = [
   },
   {
     id: uuidv1(),
-    img: 'ux.jpg',
-    title: `More work including Graphic design, Goal conversion, Project management and UX / UI.`,
+    img: 'more-projects.jpg',
+    title: `More projects including Graphic design, Goal conversion and Data visualization.`,
     info: `In my portfolio I show how I, as a designer, trade professionally in real-life situations. The material is always presented against the background of the situation in which that material played a role.`,
-    info2: `Tools & Methodologies used: Sketch, Photoshop, Illustrator, Figma, Sketching, GitHub, Git, online resources for A/B testing.`,
-    url: `/graphic-design-related-works.pdf`,
+    info2: `Tools & Methodologies used: Sketch, Photoshop, Illustrator, Figma, Sketching, GitHub, Git, online resources for A/B testing etc.`,
+    url: `/graphic-design-related-projects.pdf`,
     repo: ``, // if no repo, the button will not show up
   },
 ];
