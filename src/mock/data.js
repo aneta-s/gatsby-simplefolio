@@ -19,10 +19,10 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.png',
-  paragraphOne: `Professional and enthusiastic Product Designer with front-end skills en knowledge of web and mobile design and UX/UI. Able to create beautifully designed web and mobile interfaces that serve countless people in many different roles, but which all fit consistently in platforms. Uses different facets and tools of design to create and execute solutions for a user’s experience optimization.`,
-  paragraphTwo: `I’m a problem solver and enjoy participating in design sprints. In my spare time I write blog posts for the design community to help other product designers understand a topic.`,
-  paragraphThree: ``,
-  resume: 'https://medium.com/@anetastojanowska', // if no resume, the button will not show up
+  paragraphOne: `Professional and enthusiastic Product Designer with front-end skills en knowledge of web and mobile design and UX/UI.`,
+  paragraphTwo: `I have been designing for 5 years and freelancing for 2 years. I have been a Product Designer for web and mobile apps using Figma, Illustrator and HTML-prototypes. I have some experience in receiving feedback in LEAN and Agile environments. I have done front-end development with component-based design in React and Angular.`,
+  paragraphThree: `I’m a problem solver and enjoy participating in design sprints. In my spare time I write blog posts for the design community to help other product designers understand a topic.`,
+  resume: '/resume-product-designer.pdf', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -87,8 +87,8 @@ export const footerData = {
     },
     {
       id: uuidv1(),
-      name: 'codepen',
-      url: 'https://codepen.io/aneta-s',
+      name: 'medium',
+      url: 'https://medium.com/@anetastojanowska',
     },
     {
       id: uuidv1(),
