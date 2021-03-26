@@ -2,7 +2,7 @@ import uuidv1 from 'uuid/v1';
 
 // HEAD DATA
 export const headData = {
-  title: 'Aneta Stojanowska | Product Designer', // e.g: 'Name | Developer'
+  title: 'Aneta Stojanowska, a Product Designer based in Amsterdam', // e.g: 'Name | Developer'
   lang: 'nl, en, pl', // e.g: en, es, fr, jp
   description: `I’m a problem solver with front-end skills en knowledge of web and mobile design and UX/UI. Able to create beautifully designed web and mobile interfaces that serve countless people in many different roles, but which all fit consistently in platforms. Uses different facets and tools of design to create and execute solutions for a user’s experience optimization.`, // e.g: Welcome to my website
   img: 'seo.png',
