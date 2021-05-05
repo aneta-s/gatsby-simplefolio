@@ -11,13 +11,13 @@ export default () => {
     <>
       <Helmet>
         <meta charSet="utf-8" />
-        <title>{title || 'Aneta Stojanowska, a UX/UI Designer, based in Amsterdam'}</title>
+        <title>{title || 'Aneta Stojanowska a UX/UI Designer based in Amsterdam'}</title>
         <html lang={lang || 'nl, en, pl'} />
         <meta
           name="description"
           content={
             description ||
-            `Professional and enthusiastic UX/UI Designer with front-end skills en knowledge of web and mobile design and UX.`
+            `Professional and enthusiastic UX/UI Designer with front-end skills en knowledge of web and mobile design.`
           }
         />
         <meta name="image" property="og:image" content={img} />
